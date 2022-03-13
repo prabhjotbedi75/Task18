@@ -1,4 +1,4 @@
-# Task19
+# Task18
 Zookeeper Tasklist  
 
 Set up a zookeeper cluster with 3 nodes. Use below link to download the compiled binaries.Use version Apache ZooKeeper 3.6.3 https://zookeeper.apache.org/releases.html  
